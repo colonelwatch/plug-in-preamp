@@ -4187,7 +4187,7 @@
 		(uuid "b93e07a1-83b0-40c0-9d1d-7af2f7431027")
 	)
 	(gr_text "CTIA-\ncompatible\nMic PiP Preamp\n"
-		(at 55.7 37.1 0)
+		(at 55.7 37.3 0)
 		(layer "F.SilkS")
 		(uuid "84c17978-f646-40da-b2d5-7ff9c721377a")
 		(effects
@@ -4199,7 +4199,7 @@
 		)
 	)
 	(gr_text "(+16dB) and\nSplitter\nv0.3"
-		(at 55.7 49.5 0)
+		(at 55.7 49.3 0)
 		(layer "F.SilkS")
 		(uuid "f5f201dc-27bd-421d-b050-764b88210f16")
 		(effects
@@ -4223,7 +4223,7 @@
 		)
 	)
 	(gr_text "colonelwatch/\nplug-in-preamp"
-		(at 54.9 37.1 0)
+		(at 54.9 37.3 0)
 		(layer "B.SilkS")
 		(uuid "4d49cf31-713c-4ce1-be1a-254f3e963099")
 		(effects
